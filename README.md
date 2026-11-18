@@ -3,14 +3,12 @@
 Author: Magnhild Tansem, magnhirt@stud.ntnu.no
 Code assistant: Claude code
 
-
 MATLAB code. Six kinetic growth models are fitted to bioreactor data
 (biomass, flow-cytometry strain fractions, HPLC sugars, off-gas CO2) and
 compared by how well they predict an experiment they were not trained on.
 
-**The experimental data is not included in this repository**, because it
-cannot be shared. Placeholders mark where the data goes; see
-[data/README.md](data/README.md) for the expected file names and formats.
+**The experimental data is not included in this repository**. Placeholders mark where the data goes; see
+[data/README.md](data/README.md) for the expected file names and formats. If you want to ask for access to the data, contact the author :)
 
 The code repository was cleaned up by claude code for readability. It
 contains exactly what produced the final model-comparison sweep of
